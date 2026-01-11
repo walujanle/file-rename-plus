@@ -37,12 +37,12 @@ A fast, lightweight, and portable file renaming tool with a native GUI. Built wi
 
 ## System Requirements
 
-| Component | Minimum                                           |
-| --------- | ------------------------------------------------- |
-| OS        | Windows 10+, macOS 10.15+, or Linux (X11/Wayland) |
-| RAM       | 64 MB                                             |
-| Disk      | 10 MB                                             |
-| Display   | 900x650 resolution                                |
+| Component | Minimum                                               |
+| --------- | ----------------------------------------------------- |
+| OS        | Windows 10+ (64-bit), macOS 10.15+, or Linux (64-bit) |
+| RAM       | 64 MB                                                 |
+| Disk      | 10 MB                                                 |
+| Display   | 900x650 resolution                                    |
 
 > **Platform Support Status**
 >
